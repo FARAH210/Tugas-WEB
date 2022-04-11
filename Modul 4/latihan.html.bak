@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Demo Rounded Border</title>
+	<link rel="stylesheet" type="text/css" href="styleerad.css>
+	
+</head>
+<body>
+
+    <div class="box-1">  INI LINGKARAN YA KAWAN  </div>
+	<div class="box-2">  KREASI TERBARU          </div>
+	<div class="box-3">  KREASI EFEK             </div>
+	
+</body>
+</html>

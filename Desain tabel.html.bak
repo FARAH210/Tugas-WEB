@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Perbandingan Fitur</title>
+</head>
+
+<body>
+    <table border=1 align="center" cellspacing=0 cellpanding=5>
+	<tr>
+	<p style="text-align: center"><strong>PERBANDINGAN FITUR</strong></p>
+	<tr>
+	<tr height="20px">
+	    <th width="50" valign="top">No</th>
+		<th width="250" valign="top">Fitur</th>
+		<th width="100" valign="top">Enterprise</th>
+		<th colspan="2" width="150" valign="top" align="center"> Pro      Free  </th>
+	</tr>
+
+    <!-- Kolom no dan data -->
+    <tr>
+		<td rowspan="3" align="center"> 1 
+		</br> 2 
+		</br> 3 
+		</br> 4 
+		</br> 5 
+		</br> 6 
+		</br> 7 </td>
+		<td rowspan="3" align="left"> Garansi seumur hidup 
+		</br> Multiuser 
+		</br> Update otomatis 
+		</br> Cetak laporan 
+		</br> Notifikasi eror 
+		</br> Ubah tema 
+		</br> Try icon </td>
+    </tr>
+	
+
+    <!-- Kolom data ketiga dan keempat -->
+    <tr>
+		<td align="center"> X </br> X </br> X </br> X </br> X </br> X </br> X </td>
+		
+		<td align="center"> - 
+		</br> - </br> X </br> X </br> X </br> X </br> X </td> 
+		<td align="center"> - </br> - </br> - </br> - 
+		</br> X </br> X </br> X </td>
+    </tr>
+	
+	
+</table>
+
+</body>
+</html>
+<body>
+    <font face="Times new roman" size="4" align="left"> PERBANDINGAN FITUR </br>
+	<table border="1" align="center" cellpadding="0" cellspacing="0" width="40%">
